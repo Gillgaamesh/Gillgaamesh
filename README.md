@@ -1,6 +1,6 @@
 <!--GIF-->
 <div align=center>
-    <img align="center" alt="GIF" src="790b76114d09c46d565631b5e7e30c9e316205c3c4e5b005" alt="King" height=250/>
+    <img align="center" alt="GIF" src="[https://github.com/mehmetserifpasa/Tweet-Analyz.git](https://media1.giphy.com/media/IqBtos4gRdpvO/giphy.gif?cid=790b76114d09c46d565631b5e7e30c9e316205c3c4e5b005&rid=giphy.gif&ct=g)" alt="King" height=250/>
 </div>
 <br>
 
